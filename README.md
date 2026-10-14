@@ -1,2 +1,6 @@
 # AIORI-3-HACKATHON-PROJECTS
-This repository will contain the code and resources for the AIORI-3 hackathon that will be developed during the AIORI-3
+## 🎥 Project Video Demonstration
+
+Watch our project presentation and demonstration on YouTube:
+
+https://youtube.com/shorts/N2vQJwc3dt4?si=E9sh-Yg8JyHD_14D
